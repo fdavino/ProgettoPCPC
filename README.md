@@ -433,7 +433,7 @@ Nella figura che segue sono indicati in un grafico i risultati dei test relativa
 
 
 ## Weak Scaling
-Per testare la weak scaling ho invece è necessario aumentare il numero di parole da analizzare proporzionalmente al numero di processori. Ho deciso di iniziare con un singolo file da 10000 parole per un singolo processore, fino ad arrivare a 16 file da 10000 parole per 16 processori. I risultati sono mostrati nel grafico che segue relativamente al tempo impiegato ed al numero di processori utilizzato.
+Per testare la weak scaling invece è necessario aumentare il numero di parole da analizzare proporzionalmente al numero di processori. Ho deciso di iniziare con un singolo file da 10000 parole per un singolo processore, fino ad arrivare a 16 file da 10000 parole per 16 processori. I risultati sono mostrati nel grafico che segue relativamente al tempo impiegato ed al numero di processori utilizzato.
 
 ![Weak Scaling](https://github.com/fdavino/ProgettoPCPC/blob/master/img/Weak.png?raw=true)
 
