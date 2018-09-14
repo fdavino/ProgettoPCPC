@@ -461,7 +461,7 @@ Eseguire il generatore per creare i file passando come argomento
 
 Lanciare wordCount sul numero di processori desiderato
 ```
-mpirun -np 4 wordCount.o
+mpirun -np 4 ./wordCount.o
 ```
 
 
